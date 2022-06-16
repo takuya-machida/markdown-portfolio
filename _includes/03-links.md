@@ -1,0 +1,1 @@
+[GitHubにとぶ](http://github.com)
