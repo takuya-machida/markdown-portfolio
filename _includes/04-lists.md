@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- リスト項目１ :heart:
+- リスト項目２
+  1. すうじつき１
+  2. すうじつき２
